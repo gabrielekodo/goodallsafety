@@ -13,7 +13,10 @@
     opacity: 1;
     transform: none;
   }
-
+.slider_section .detail-box h1 {
+  color: #ffffff;
+  text-transform: uppercase;
+}
   .sub_page .hero_area::after {
     display: none;
   }
